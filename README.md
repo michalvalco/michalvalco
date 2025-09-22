@@ -1,6 +1,6 @@
 # Prof. Michal Valčo 
 
-<img src="./profile-picture.jpg" alt="Prof. Michal Valčo" width="160" align="right">
+<img src="./[profile-picture.jpg](https://github.com/michalvalco/michalvalco/blob/49b3e74a0044f6647c0416dc7e53810b17f10927/Professional%20image%20Michal%20Valco%20-%20Gemini%2001.png)" alt="Prof. Michal Valčo" width="160" align="right">
 
 ### Professor of Theology and Religious Studies | Exploring the intersection of faith, philosophy, and the future of Artificial Intelligence
 
