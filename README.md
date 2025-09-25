@@ -35,7 +35,6 @@ Recently, I've embarked on a journey to not just theorize about AI, but to build
 ### 🔭 My Pinned Repositories
 
 * [**grant_finder_agent**](https://github.com/michalvalco/grant_finder_agent) — AI agent for finding and analyzing academic grants
-* [**AI_Agents_06_Langgraph**](https://github.com/michalvalco/AI_Agents_06_Langgraph) — Exploring multi-agent collaboration with LangGraph
 * [**ai-agent-uloha01-llm-tool-calling**](https://github.com/michalvalco/ai-agent-uloha01-llm-tool-calling) — Enabling LLMs to use external tools
 
 ---
